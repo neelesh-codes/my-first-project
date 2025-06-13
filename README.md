@@ -1,2 +1,7 @@
-# my-first-project
-practicing this 
+#This is my first github repositiory 
+
+I like python
+
+'''python
+print("Hello world")
+'''
